@@ -1,0 +1,382 @@
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+!	!LO:TX:a:B:t=Allegretto	!
+(2A 2c# 2e	(4a	mf
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4E)	8g#	.
+.	8aJ	.
+=	=	=
+(2G# 2d	8e) 8b	.
+.	8r	.
+.	(4.e 4.b	.
+4E)	.	.
+.	8cc#	.
+=	=	=
+(2A 2c# 2e	4a)	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4E)	8g#	.
+.	8aJ	.
+=	=	=
+(2G# 2B	2.e 2.b	.
+4E)	.	.
+=	=	=
+2A 2e	(4cc#	.
+.	(16qqb/LL	.
+.	16qqcc#/JJ	.
+.	8bL)	.
+.	8a	.
+4G# 4e	8b	.
+.	8cc#J)	.
+=	=	=
+2F# 2e	4a: 4dd:	.
+.	(4.dd	.
+4G# 4e	.	.
+.	8b)	.
+=	=	=
+2A 2e	4a: 4cc#:	.
+.	(4.cc#	.
+4F# 4d#X	.	.
+.	8a)	.
+=	=	=
+(4e	(2a: 2cc#:	.
+4E	.	.
+4d)	4g#) 4b	.
+=	=	=
+2AA 2E	(4c# 4a	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4AA 4E	8g#	.
+.	8aJ	.
+=	=	=
+*	*^	*
+2E 2G# 2d	8e) 8b	4ryy	.
+.	8r	.	.
+.	4.ee^	(4.b	.
+4E 4G# 4d	.	.	.
+.	8ryy	8cc#)	.
+*	*v	*v	*
+=	=	=
+2A 2c#	4a	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4AA 4E	8g#	.
+.	8aJ	.
+=	=	=
+2E 2G# 2d	2e 2b	.
+4r	4ee^	<
+=	=	=
+*	*^	*
+2.r	(8aaL	(8cc#'L	[
+.	8gg#	8b'	.
+.	8ff#'	8a'	.
+.	8ee'	8g#'	.
+.	8dd'	8f#'	.
+.	8cc#'J)	8e'J)	.
+*	*v	*v	*
+=	=	=
+(8d'L	(8b'L	.
+8c#'	8a'	.
+8B'	8g#'	.
+8A'	8f#'	.
+8B'	8g#'	.
+8c#'J)	8a'J)	.
+=	=	=
+(4d	8e: 8g#: 8b:	.
+.	8r	.
+4E	(4.b^	.
+4d)	.	.
+.	8cc#)	.
+=	=	=
+(4A 4c#	2e 2a	.
+4AA)	.	.
+4r	4r	.
+=||	=||	=||
+!	!LO:TX:b:i:t=marcato	!
+2AA 2E	(8c#L	f f
+.	8eJ)	.
+.	4e^	.
+4AA 4E	(8c#L	.
+.	8eJ)	.
+=	=	=
+(2G# 2d	(8eL	f
+.	8bJ)	.
+.	4b^	.
+4E)	(8eL	.
+.	8dJ)	.
+=	=	=
+.	(8qd/	.
+2AA 2E	(8c#L)	.
+.	8B	.
+.	8A	.
+.	8B	.
+4AA 4E	8c#	.
+.	8dJ)	.
+=	=	=
+(2G# 2d	(8eL	f
+.	8bJ)	.
+.	4b^	.
+4E)	(8eL	.
+.	8dJ)	.
+=	=	=
+2AA 2E	(8c#L	.
+.	8eJ)	.
+.	4e	.
+4GG# 4E	(8BL	.
+.	8eJ)	.
+=	=	=
+2FF# 2BB	(8d#XL	.
+.	8aJ)	.
+.	4a	.
+4EE 4BB	(8g#L	.
+.	8eJ)	.
+=	=	=
+4A	(8c#L	.
+.	8f#	.
+4BB 4G#	8e	.
+.	8B	.
+4F# 4A	8d#X	.
+.	8BJ)	.
+=	=	=
+4E 4G#	(8eL	.
+.	8B	.
+8r	8G#J)	.
+(8EL	8r	.
+8D	4r	.
+8BBJ)	.	.
+=	=	=
+*^	*	*
+!	!	!LO:TX:a:i:t=m.d.	!
+8C#L	2AA	2ryy	f
+8EJ	.	.	.
+4E^	.	.	.
+(8C#L	4ryy	4A 4e	.
+8EJ)	.	.	.
+*v	*v	*	*
+=	=	=
+!	!LO:TX:b:i:t=marcato	!
+(8EL	2G# 2d 2e	.
+8BJ)	.	.
+4B	.	.
+(8EL	4G# 4e	.
+8DJ)	.	.
+=	=	=
+(8C#L	2A 2e	.
+8BB	.	.
+8AA	.	.
+8BB	.	.
+8C#	4A 4e	.
+8DJ)	.	.
+=	=	=
+(8EL	2.G# 2.d 2.e	.
+8BJ)	.	.
+4B	.	.
+8EL	.	.
+8DJ	.	.
+=	=	=
+2AA 2E	(8c#L	p
+.	8eJ)	.
+.	4e	.
+4GG# 4E	(8BL	.
+.	8eJ)	.
+=	=	=
+2FF# 2BB	(8d#XL	.
+.	8aJ)	.
+.	4a	.
+4EE 4BB	(8g#L	.
+.	8eJ)	.
+=	=	=
+4A	(8c#L	.
+.	8f#	.
+4BB 4G#	8e	.
+.	8B	.
+4F# 4A	8d#X	.
+.	8BJ)	.
+=	=	=
+4E 4G#	(8eL	.
+.	8BJ	.
+8r	4G#)	.
+(8EL	.	.
+8EEJ)	4ryy	.
+8r	.	.
+=	=	=
+2B 2f#	(4dd	f
+.	(16qqcc#/LL	.
+.	16qqdd/JJ	.
+.	8cc#L)	.
+.	8b	.
+4B 4f#	8cc#	.
+.	8ddJ)	.
+=	=	=
+*^	*	*
+(4d	2.G#	2.e^	f
+8c#L	.	.	.
+8B	.	.	.
+8c#	.	.	.
+8dJ)	.	.	.
+*v	*v	*	*
+=	=	=
+2A 2c#	(4cc#	p
+.	(16qqb/LL	.
+.	16qqcc#/JJ	.
+.	8bL)	.
+.	8a	.
+4A 4c#	8b	.
+.	8cc#J)	.
+=	=	=
+*^	*	*
+(4c#	2.F#	2.d	.
+8BL	.	.	.
+8A	.	.	.
+8B	.	.	.
+8c#J)	.	.	.
+*v	*v	*	*
+=	=	=
+*	*^	*
+4G#^	4b^	4d	mf
+!	!LO:TX:a:t=poco stringendo	!	!
+4E#X^	8a^L	4c#	.
+.	8g#^J	.	.
+4F#^	4a^	4c#	.
+*	*v	*v	*
+=	=	=
+4D#X^ 4B	(8g#^L	.
+.	8f#J)	.
+4E^ 4B	4g#^	.
+4C#	(8f#^L	.
+.	8eJ)	.
+=	=	=
+!	!LO:TX:a:t=a tempo	!
+8A 8c#	(8g#L	p
+8r	8f#	.
+8G# 8B	8eJ)	.
+8r	8r	.
+8BB 8F# 8A	8B 8d#X	.
+8r	8r	.
+=	=	=
+(8E^L	4B 4e	>
+8G#	.	.
+8F#	4r	.
+8A	.	.
+8G#	4r	.
+8BJ)	.	]]
+=	=	=
+!	!LO:TX:b:i:t=dolce	!
+2AA 2E	(4c# 4a	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4E	8g#	.
+.	8aJ)	.
+=	=	=
+(2G# 2d	8e 8b	.
+.	8r	.
+.	(4.e^ 4.b	.
+4E)	.	.
+.	8cc#)	.
+=	=	=
+(2A 2c# 2e	(4a	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4E)	8g#	.
+.	8aJ)	.
+=	=	=
+(2G# 2B	2.e 2.b	.
+4E)	.	.
+=	=	=
+2A 2e	(4cc#	.
+.	(16qqb/LL	.
+.	16qqcc#/JJ	.
+.	8bL)	.
+.	8a	.
+4G# 4e	8b	.
+.	8cc#J)	.
+=	=	=
+2F# 2e	4a: 4dd:	.
+.	(4.dd	.
+4G# 4e	.	.
+.	8b)	.
+=	=	=
+2A 2e	4a 4cc#	.
+.	(4.cc#	.
+4F# 4d#X	.	.
+.	8a)	.
+=	=	=
+(4e	(2a 2cc#	.
+4E	.	.
+4d)	4g#) 4b	.
+=	=	=
+2AA 2E	(4c# 4a	f
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4AA 4E	8g#	.
+.	8aJ)	.
+=	=	=
+*	*^	*
+2E 2G# 2d	8e 8b	4ryy	.
+.	8r	.	.
+.	2ee^	(4.b	.
+4E 4G# 4d	.	.	.
+.	.	8cc#)	.
+*	*v	*v	*
+=	=	=
+2A 2c#	(4a	.
+.	(16qqg#/LL	.
+.	16qqa/JJ	.
+.	8g#L)	.
+.	8f#	.
+4AA 4E	8g#	.
+.	8aJ)	.
+=	=	=
+2E; 2G# 2d	2e; 2b	<
+4r	4ee	.
+=	=	=
+*	*^	*
+2.r	(8aaL	(8cc#'L	[
+.	8gg#'	8b'	.
+.	8ff#'	8a'	.
+.	8ee'	8g#'	.
+!	!LO:TX:b:i:t=dim.	!	!
+.	8dd'	8f#'	.
+.	8cc#'J	8e'J)	.
+*	*v	*v	*
+=	=	=
+(8d'L	8b'L	.
+8c#'	8a'	.
+8B'	8g#'	.
+8A'	8f#'	.
+8B'	8g#'	.
+8c#'J)	8a'J)	.
+=	=	=
+(4d	8e: 8g#: 8b:	p
+.	8r	.
+4E	(4.b	.
+4d)	.	.
+.	8cc#)	.
+=	=	=
+(4A 4c#	2e 2a	.
+4AA)	.	.
+4r	4r	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}

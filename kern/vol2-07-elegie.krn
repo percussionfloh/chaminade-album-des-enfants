@@ -1,0 +1,408 @@
+!!!COM: Chaminade, Cécile
+!!!OTL: Album des enfants - Deuxième série
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M6/8	*M6/8	*
+=1	=1	=1
+!	!LO:TX:a:B:t=Andante sostenuto	!
+(16fLL	4ryy	p
+16A	.	.
+16f	.	.
+16A	.	.
+16f	8r	.
+16AJJ	.	.
+16fLL	4D	.
+16A	.	.
+16f	.	.
+16A	.	.
+16f	8a	.
+16AJJ)	.	.
+=	=	=
+(16fLL	8ddL	.
+16A	.	.
+16f	([8dd^	.
+16A	.	.
+16f	16ddL]	.
+16AJJ)	16eeJJ	.
+(16eLL	4g) 4cc	.
+16A	.	.
+16e	.	.
+16A	.	.
+16e	(16gLL	.
+16AJJ)	16aJJ)	.
+=	=	=
+*	*^	*
+(16dLL	8b-L	8f	.
+16A	.	.	.
+16d	([8b-^	4f	.
+16A	.	.	.
+16d	16b-L]	.	.
+16AJJ)	16ccJJ)	.	.
+(16c#XLL	(8b-L	4e	.
+16A	.	.	.
+16c#	8aJ)	.	.
+16A	.	.	.
+16c#	8a	8a	.
+16AJJ)	.	.	.
+=	=	=	=
+(16fLL	(16ddLL	4.a	.
+16A	[16ff^	.	.
+16f	16ff]	.	.
+16A	16ee	.	.
+16f	16dd	.	.
+16AJJ)	16eeJJ)	.	.
+(16eLL	(8ddL	4.g	.
+16A	.	.	.
+16e	8cc)	.	.
+16A	.	.	.
+16e	(16gL	.	.
+16AJJ)	16aJJ)	.	.
+=	=	=	=
+(16dLL	(16b-LL	4.f	.
+16A	[16dd^	.	.
+16d	16dd]	.	.
+16A	16cc	.	.
+16d	16b-	.	.
+16AJJ)	16ccJJ)	.	.
+(16c#XLL	4a	4e	.
+16A	.	.	.
+16c#	.	.	.
+16A	.	.	.
+*	*v	*v	*
+16c#	(16aLL	mf
+16AJJ)	16b-JJ)	.
+=	=	=
+(16e-XLL	8aL 8cc	.
+16cni	.	.
+16G	([8a^ [8cc	.
+16c	.	.
+16e-	16aL] 16cc]	.
+16cJJ)	16ddJJ)	.
+(16F#XLL	4a 4cc	.
+16c	.	.
+16e-	.	.
+16c	.	.
+16e-	(16aLL	.
+16cJJ)	16b-JJ)	.
+=	=	=
+(16GLL	(16aLL 16cc	.
+16c	16ccJ	.
+16e-X	[8aa	.
+16c	.	.
+16F#X	16aaL]	.
+16e-JJ)	16ccJJ)	.
+(16GLL	(8aL 8cc	.
+16d	.	.
+16G	8g) 8b-	.
+16d	.	.
+16Fn	(16gL	.
+16dJJ)	16aJJ)	.
+=	=	=
+!	!LO:TX:b:i:t=dolce	!
+(16E-XLL	(16gLL 16b-	.
+16B-	16b-J	.
+16D	[8gg	.
+16B-	.	.
+16C#X	16ggL]	.
+16B-JJ)	16b-JJ)	.
+(16DLL	(8gL 8b-	.
+16B-	.	.
+16D	8f) 8a	.
+16A	.	.
+16B-	[8eni^J [8g	.
+16GJJ)	.	.
+=	=	=
+(16ALL	(8eL] 8g]	p
+16G#X	.	.
+.	(16qqa/LL	.
+.	16qqg/JJ)	.
+16A	8d 8f	.
+16AA	.	.
+16Gn	8c#XJ) 8e	.
+16AAJJ)	.	.
+(16DLL	4F 4d	.
+16AA	.	.
+16FF	.	.
+16AAJ	.	.
+8DDJ)	(16aLL	mf
+.	16b-JJ)	.
+=	=	=
+(16e-XLL	8aL 8ccni	.
+16c	.	.
+16G	([8a^ [8cc	.
+16c	.	.
+16e-	16aL] 16cc]	.
+16cJJ)	16ddJJ	.
+(16F#XLL	4a) 4cc	.
+16c	.	.
+16e-	.	.
+16c	.	.
+16e-	(16aLL	.
+16cJJ)	16b-JJ)	.
+=	=	=
+!	!LO:TX:b:i:t=poco rit.	!
+(16GLL	(16a:LL 16cc:	<
+16c	16ccJ	.
+16e-X	[8aa	.
+16c	.	.
+16F#X	16aaL]	[ >
+16e-JJ)	16ccJJ)	.
+!	!LO:TX:a:B:t=a Tempo	!
+(16GLL	(8aL 8cc	.
+16d	.	.
+16G	8g) 8b-	.
+16d	.	.
+16Fn	(16gL	]
+16dJJ)	16aJJ)	.
+=	=	=
+!	!LO:TX:b:i:t=dolcissimo	!
+!	!LO:TX:b:i:t=pocco rit.	!
+(16E-XLL	(16g:LL 16b-:	.
+16B-	16b-J	.
+16D	[8gg	.
+16B-	.	.
+16C#X	16ggL]	.
+16B-JJ)	16b-JJ)	.
+!	!LO:TX:a:B:t=a Tempo	!
+(16DLL	(8gL 8b-	.
+16B-	.	.
+16D	8f) 8a	.
+16A	.	.
+16B-	[8eni^J [8g	.
+16GJJ)	.	.
+=	=	=
+(16ALL	8eL] 8g]	.
+16G#X	.	.
+.	(16qqa/LL	.
+.	16qqg/JJ)	.
+16A	8d 8f	.
+16AA	.	.
+16Gn	8c#XJ 8e	.
+16AAJJ)	.	.
+(16DLL	4F 4d	.
+16AA	.	.
+16FF	.	.
+16AAJ	.	.
+8DDJ)	(16fLL	mf
+.	16gJJ)	.
+=	=	=
+4d^	8fL 8a	.
+.	(8.f^ 8.a	.
+8G	.	.
+.	16fJk) 16bn	.
+.	(8qdd/	.
+*	*^	*
+8C 8G	(16ccLL)	8eL	.
+.	16bJ	.	.
+4C 4G	8a)	8eJ	.
+*	*v	*v	*
+.	(16gL	.
+.	16aJJ)	.
+=	=	=
+*	*^	*
+8GL 8d 8e	(16b-XiLL	8gL	<
+.	16ccJ	.	.
+8G 8d 8e	8.dd	8b-	.
+8AJ 8c#X	.	8aJ	.
+.	16eeJk)	.	.
+8D 8A	(16ffLL	8aL	[ f
+.	16eeJ	.	.
+4d 4f	8dd	8aJ	.
+*	*v	*v	*
+.	16aL	.
+.	16bnJJ)	.
+=	=	=
+8AL 8e	8aL 8cc#X	.
+8.A 8.e	8.a^ 8.cc#	.
+16fJk	16b-XiJk 16dd	.
+8AL 8e	8aL 8cc#	.
+8A 8e	8a 8cc#	.
+8d#XJ	8f#XJ 8a	.
+=	=	=
+*	*^	*
+(8dniL	(4cc#X	4.fni: 4.g#X:	.
+8E	.	.	.
+8dJ)	8bn	.	.
+*	*v	*v	*
+(8A 8c#X	4e) 4a	.
+8AA)	.	.
+16c#LL	8r	p
+16dJJ	.	.
+=	=	=
+16e	16r	.
+16ryy	(16gLL	.
+8ryy	16b-	.
+.	16a	.
+2ryy	16g	.
+.	16fJJ	.
+.	16eLL	.
+.	16dJJ)	.
+!	!LO:TX:b:i:t=m.g.	!
+.	(16c#XLL	<
+.	16e	.
+.	16g	.
+.	16aJJ)	.
+=	=	=
+!	!LO:TX:a:i:t=m.d.	!
+2.ryy	(16b-LL	[
+.	16cc#X	.
+.	16ee	.
+.	16dd	.
+.	16cc#	.
+.	16b-JJ	.
+.	16aLL	.
+.	16g#XJJ)	.
+!	!LO:TX:b:i:t=m.g	!
+.	(16gniLL	<
+.	16a	.
+.	16b-	.
+.	16cc#XiJJ)	.
+=	=	=
+!	!LO:TX:a:i:t=m.d.	!
+2.ryy	(16eeLL	[ f
+.	16gg	.
+.	16bb-	.
+.	16aa	.
+.	16gg	.
+.	16ffJJ	.
+.	16eeLL	.
+.	16dd	.
+.	16cc#X	.
+.	16b-	.
+.	16a	.
+.	16g#XJJ)	.
+=	=	=
+!	!LO:TX:b:i:t=dim.	!
+4ryy	(16gniLL	>
+.	16f	.
+.	16e	.
+.	16d	.
+8r	16c#X	.
+.	16B-JJ	.
+!	!LO:TX:b:i:t=pocco rit.	!
+16ALL	4ryy	] p
+16G#X	.	.
+16Gn	.	.
+16F#X	.	.
+16Fn	(8a	.
+16EJJ)	.	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+(16DLL	8ddL)	.
+16A	.	.
+16f	[8a^ [8dd	.
+16A	.	.
+16f	16aL] 16dd]	.
+16AJJ)	16eeJJ	.
+(16eLL	4g 4cc	.
+16A	.	.
+16e	.	.
+16A	.	.
+16e	(16gLL	.
+16AJJ)	16aJJ	.
+=	=	=
+*	*^	*
+(16dLL	8b-L)	8f	.
+16A	.	.	.
+16D	([8b-	4f	.
+16A	.	.	.
+16d	16b-L]	.	.
+16AJJ)	16ccJJ)	.	.
+(16c#XLL	(8b-L	4e	.
+16A	.	.	.
+16c#	8aJ)	.	.
+16A	.	.	.
+16c#	8a	8a	.
+16AJJ)	.	.	.
+=	=	=	=
+(16fLL	(16ddLL	4.a	.
+16A	[16ff^	.	.
+16D	16ff]	.	.
+16A	16ee	.	.
+16f	16dd	.	.
+16AJJ)	16eeJJ)	.	.
+(16eLL	(8ddL	4.g	.
+16A	.	.	.
+16e	8cc)	.	.
+16A	.	.	.
+16e	16gL	.	.
+16AJJ)	16aJJ	.	.
+=	=	=	=
+(16dLL	(16b-LL	4.f	.
+16A	[16dd^	.	.
+16D	16dd]	.	.
+16A	16cc	.	.
+16d	16b-	.	.
+16AJJ)	16ccJJ)	.	.
+(16c#XLL	4a	4.e	.
+16A	.	.	.
+16c#	.	.	.
+16A	.	.	.
+16c#	(16aLL	.	.
+16AJJ)	16b-JJ)	.	.
+*	*v	*v	*
+=	=	=
+(16e-XLL	8aL 8ccni	.
+16c	.	.
+16G	[8a^ [8cc	.
+16c	.	.
+16e-	16aL] 16cc]	.
+16cJJ)	16ddJJ	.
+(16F#XLL	4a 4cc	.
+16c	.	.
+16e-	.	.
+16c	.	.
+16e-	(16aLL	.
+16cJJ)	16b-JJ)	.
+=	=	=
+(16GLL	(16a:LL 16cc:	.
+16c	16ccJ	.
+16e-X	[8aa	.
+16c	.	.
+16F#X	16aaL]	.
+16e-JJ)	16ccJJ)	.
+(16GLL	(8aL 8cc	.
+16d	.	.
+16G	8g) 8b-	.
+16d	.	.
+16Fn	(16gL	.
+16dJJ)	16aJJ)	.
+=	=	=
+(16E-XLL	(16g:LL 16b-:	.
+16B-	16b-J	.
+16D	[8gg	.
+16B-	.	.
+16C#X	16ggL]	.
+16B-JJ)	16b-JJ)	.
+(16DLL	(8gL 8b-	.
+16B-	.	.
+16D	8f) 8a	.
+16A	.	.
+16B-	[8eJ [8g	.
+16GJJ)	.	.
+=	=	=
+(16ALL	(8eL] 8g]	.
+16G#X	.	.
+.	(16qqa/LL	.
+.	16qqg/JJ)	.
+16A	8d 8f	.
+16AA	.	.
+!	!LO:TX:b:i:t=poco rit.	!
+16Gn	8c#XJ) 8e	.
+16AAJJ)	.	.
+(16DLL	4.F 4.d	.
+16AA	.	.
+16FF	.	.
+16AAJJ	.	.
+8DD)	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM: Domaine public - Première publication: 1907
+!!!RDF**kern: i = editorial accidental

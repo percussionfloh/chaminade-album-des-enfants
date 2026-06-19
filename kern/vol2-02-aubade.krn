@@ -1,0 +1,219 @@
+!!!COM: Komponist / Arrangeur
+!!!OTL: 2
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*M4/4	*M4/4	*
+=1	=1	=1
+!	!LO:TX:b:i:t=le chant doux mais très en dehors	!
+(2E	(4r	mf
+!	!	!LO:DY:a
+.	4e~ 4g#	p
+2B)	4r	<
+.	4e~) 4g#	.
+=	=	=
+4c#	4r	[
+(8c#L	4e~ 4a	.
+8eJ	.	.
+2B)	4r	.
+.	4e~ 4g#	.
+=	=	=
+4G#	4r	.
+(8G#L	4e~ 4b	.
+8BJ	.	.
+*^	*	*
+2F#)	4r	4r	.
+.	4BB	4d#~ 4a 4b	.
+*v	*v	*	*
+=	=	=
+4G#	4r	.
+(8G#L	4e~ 4g#	.
+8c#J	.	.
+4F#)	4r	.
+(8F#L	4d#~ 4a 4b	.
+8BJ	.	.
+=	=	=
+(2E)	(4r	.
+.	4e~ 4g#	.
+2B)	4r	<
+.	4e~) 4g#	.
+=	=	=
+4cni	4r	[
+(8cL	4g#~ 4ccni 4ee	.
+8eJ	.	.
+2B)	4r	.
+.	4g#~ 4ee	.
+=	=	=
+4Gni	4gni~	p
+(8GL	4dni~ 4g 4b	.
+8BJ	.	.
+4Dn	4r	.
+4A)	4cni~ 4d 4f#	.
+=	=	=
+(2Gn	(4r	.
+.	4B~ 4dni 4gni	.
+2GGni)	4r	.
+.	4B~) 4d 4g	.
+*clefG2	*	*
+=	=	=
+(2gni^	(4r	f
+!	!	!LO:DY:a
+.	4b~ 4ddni	p
+2dn)	4r	.
+.	4gni~) 4b 4dd	.
+=	=	=
+4e	4r	.
+(8eL	4gn~ 4b 4cc#	.
+8c#J	.	.
+2f#)	4r	.
+.	4a#X~ 4cc#	.
+=	=	=
+!	!	!LO:DY:a
+4d#	4r	p
+(8d#L	4b~ 4ff#	.
+8f#J)	.	.
+2c#	4r	.
+*^	*	*
+.	4F#	4a#X~ 4ee 4ff#	.
+*v	*v	*	*
+=	=	=
+4d#	4r	.
+(8d#L	4b~ 4dd#	.
+8g#J	.	.
+4c#)	4r	.
+(8c#L	4a#X~ 4ee 4ff#	.
+8f#J)	.	.
+*clefF4	*	*
+=	=	=
+(2B	(4r	f
+.	4d#~ 4b	.
+2F#)	4r	.
+.	4d#~) 4b	.
+=	=	=
+4Gni	4r	.
+(8GL	4d#~ 4b	.
+8BJ)	.	.
+2F#	4r	.
+.	4d#~ 4b	.
+=	=	=
+!	!LO:TX:b:i:t=dim.	!
+4D#	4r	.
+(8D#L	4B~ 4g#	.
+8F#J)	.	.
+(4FF#	4r	.
+4C#	4A#X~ 4e 4f#	.
+=	=	=
+2BB	4r	.
+.	(4B~ 4d# 4f#	.
+2BBB)	4r	.
+.	4B~) 4d# 4f#	.
+=	=	=
+*	*^	*
+!	!LO:TX:b:i:t=dolce	!	!LO:DY:a
+4A~ 4e	2cc#^	4f#	pp
+4A~ 4e	.	4f#	.
+4A~ 4d#	2b^	4f#	.
+4A~ 4d#	.	4f#	.
+=	=	=	=
+4A~ 4e	4cc#	4f#	.
+4A~ 4e	(8cc#L	4f#	.
+.	8dd#J	.	.
+4A~ 4d#	2b)	4f#	.
+4A~ 4d#	.	4f#	.
+=	=	=	=
+4G#~ 4B	2cc#^	4e	.
+4G#~ 4B	.	4e	.
+4Gn~ 4B	2b^	4e	.
+4G~ 4B	.	4e	.
+=	=	=	=
+4F#~ 4A#X	4cc#	4e	.
+4F#~ 4A#	(8cc#L	4e	.
+.	8dd#J	.	.
+4BB~ 4F#	2b)	4d#	.
+4BB~ 4F#	.	4d#	.
+=	=	=	=
+4B~	2f#^	4d#	mf
+4B~	.	4d#	.
+4G#~	2b^	4d#	.
+4G#~	.	4d#	.
+=	=	=	=
+4c#~	(8aL	4e	.
+.	8g#	.	.
+4c#~	8f#	4e	.
+.	8g#J)	.	.
+4F#~ 4c#	4a~	4e	.
+*	*v	*v	*
+4F#~ 4c#	4d#~ 4a	.
+=	=	=
+4B~	4d#~ 4f#	.
+!	!LO:TX:a:i:t=dim.	!
+4B~	4d#~ 4f#	.
+4E~ 4B	4e~ 4g#	.
+4E~ 4B	4e~ 4g#	.
+=	=	=
+!	!	!LO:DY:a
+4F#~ 4A#X	4c#~ 4e	p
+!	!LO:TX:b:i:t=poco rit.	!
+4F#~ 4A#	4c#~ 4e	.
+(4An	4d#~ 4f#	.
+4BB)	4d#~ 4f#	.
+=	=	=
+!	!LO:TX:b:i:t=ben cantando	!
+(8qEE/	.	.
+(2E)	(4r	.
+.	4e~ 4g#	.
+2B)	4r	.
+.	4e~) 4g#	.
+=	=	=
+4c#	4r	.
+(8c#L	4e~ 4a	.
+8eJ	.	.
+2B)	4r	.
+.	4e~ 4g#	.
+=	=	=
+4G#	4r	.
+(8G#L	4e~ 4b	.
+8BJ	.	.
+2F#)	4r	.
+*^	*	*
+.	4BB	4d#~ 4a 4b	.
+*v	*v	*	*
+=	=	=
+4G#	4r	.
+(8G#L	4e~ 4g#	.
+8c#J	.	.
+4F#)	4r	.
+(8F#L	4d#~ 4a 4b	.
+8BJ	.	.
+=	=	=
+*^	*	*
+2E)	4ryy	4r	.
+.	4EE	4dn~ 4e 4g#	<
+*v	*v	*	*
+2B	4r	.
+.	4e~ 4g#	.
+=	=	=
+4cn	4r	[
+!	!LO:TX:b:i:t=rit.	!
+(8cL	4g#~ 4ee	.
+8eJ	.	.
+2B)	4r	.
+.	4g#~ 4ee	.
+=	=	=
+4E	4r	p
+(8EL	4e~ 4g# 4b	.
+8G#J)	.	.
+(4BB	4r	.
+4F#)	4B~ 4d# 4a	.
+=	=	=
+(2E	4r	.
+.	[4B [4e [4g#	.
+2EE)	2B] 2e] 2g#]	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental

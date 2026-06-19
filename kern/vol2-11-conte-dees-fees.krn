@@ -1,0 +1,421 @@
+!!!COM: Chaminade, Cécile
+!!!OTL: Album des enfants - Deuxième série
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+2.r	2.r	.
+=-	=-	=-
+*k[]	*k[]	*
+*M6/8	*M6/8	*
+!	!LO:TX:a:B:t=Allegretto	!
+2.r	(8aL	p
+.	8b	.
+.	8aJ	.
+.	4e	.
+.	8a)	.
+=	=	=
+2.r	(4g^	.
+.	8f	.
+.	4e	.
+.	8a)	.
+=	=	=
+2.r	(4g^	.
+.	8f	.
+.	4e	.
+!	!LO:TX:b:Bi:t=rit.	!
+.	8a)	.
+=	=	=
+4.G 4.B	(8gL	.
+.	8a	.
+.	8fJ)	.
+[4.C [4.G	[4.c [4.e	.
+=	=	=
+4.C] 4.G]	4.c] 4.e]	.
+4ryy	4ryy	.
+8r	8r	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+8eL>	(8ccL	.
+8g>	8dd	.
+8eJ>	8ccJ	.
+4d>	4g	.
+8e>	8cc)	.
+=	=	=
+[4.c> [4.g>	[4.ee	.
+4.c]> 4.g]>	4.ee]	.
+=	=	=
+(8cL	(8aL	.
+8e	8b	.
+8cJ	8aJ	.
+4B	4e	.
+8c	8a	.
+=	=	=
+4.A) 4.e	4cc)	.
+.	8cc	f
+*	*^	*
+4.d#X^	(4b^	4.e#X	.
+.	8a	.	.
+=	=	=	=
+4.E 4.B	4g#X)	4.e	.
+.	8cc	.	.
+4.d#X^	(4b^	4.f#X	.
+.	8a	.	.
+=	=	=	=
+4.E 4.B	4g#X)	4.e	.
+.	8cc	.	.
+4.d#X^	(4b^	4.f#X	.
+.	8a)	.	.
+=	=	=	=
+[4.E [4.B	(8g#XL	4.d	.
+.	8a	.	.
+.	8bJ	.	.
+*	*v	*v	*
+4.E_ 4.B_	[4.e)	.
+=	=	=
+4.E] 4.B]	4.e]	.
+4ryy	4ryy	.
+8r	8ee	mf
+=	=	=
+4ryy	[4.gg	.
+8r	.	.
+*clefG2	*	*
+(4.e 4.g 4.cc	4gg]	.
+.	8ee	.
+=	=	=
+4.f 4.a	[4.dd	.
+4.d) 4.f	4dd]	.
+.	8a	.
+*clefF4	*	*
+=	=	=
+4.e 4.g	[4.cc^	.
+*	*^	*
+4.C 4.G	4.cc_	4.e	p
+=	=	=	=
+4.C 4.G	4.cc_	4.e	.
+4.C 4.G	4cc]	4.e	.
+.	8ee	.	f
+*	*v	*v	*
+*clefG2	*	*
+=	=	=
+4.g 4.cc	(4gg	.
+.	8ee	.
+4.e 4.g	8ccL	.
+.	8dd	.
+.	8eeJ)	.
+=	=	=
+4.f 4.a	(8ddL	.
+.	8ee	.
+.	8ddJ	.
+4.d 4.f	4cc	.
+.	8a)	.
+=	=	=
+4.e^ 4.g	[4.cc^	.
+*clefF4	*	*
+*	*^	*
+4.C 4.G	4.cc_	4.e	p
+=	=	=	=
+4.C 4.G	4.cc_	4.e	.
+4.C 4.G	4cc]	4.e	.
+.	8g	.	.
+*	*v	*v	*
+=	=	=
+8fL>	(8aL	.
+8e>	8b	.
+8fJ>	8aJ	.
+4d>	4dd	.
+8f>	8cc)	.
+=	=	=
+8gL>	(8bL	.
+8f>	8cc	.
+8gJ>	8bJ	.
+4e>	4ee	.
+8g>	8dd)	.
+=	=	=
+!	!LO:TX:b:i:t=cresc.	!
+8aL>	(8ccL	.
+8g>	8dd	.
+8aJ>	8ccJ	.
+4f>	4ff	.
+8a>	8ee)	.
+=	=	=
+8bL>	(8ddL	.
+8a>	8ee	.
+8bJ>	8ddJ	.
+8gL>	4gg	.
+8a>	.	.
+8bJ>	8ff)	.
+=	=	=
+4.c^^> 4.g>	[4.ee^^ [4.ccc	f
+4.c^^> 4.g>	4ee] 4ccc]	.
+.	8gg	.
+=	=	=
+.	(8qgg/	.
+4.c> 4.g#X>	([4.dd^^) [4.ff	.
+4.c> 4.g#>	4dd] 4ff]	.
+.	8ff)	.
+=	=	=
+4.c> 4.a>	[4.cc [4.ee	.
+4.c> 4.a>	4.cc_ 4.ee_	.
+=	=	=
+4.c> 4.b-X>	4.cc_ 4.ee_	.
+4.c> 4.b->	4cc] 4ee]	.
+.	8ee	.
+=	=	=
+4.F 4.c#X	4.b-X [4.gg	>
+4.F 4.d	4a 4gg]	.
+.	8ee	]
+=	=	=
+!	!LO:TX:b:i:t=rit.	!
+.	(8qdd/	p
+(4.G 4.f	[4.bni) [4.dd	.
+4.GG)	4b] 4dd]	.
+.	8cc	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+(8CCL	[4.e [4.cc	p
+8GG	.	.
+8CCJ	.	.
+8GGL	4.e_ 4.cc_	.
+8CC	.	.
+8GGJ	.	.
+=	=	=
+8CCL	4.e_ 4.cc_	.
+8GG	.	.
+8CCJ	.	.
+8GGL	4.e] 4.cc]	.
+8CC	.	.
+8GGJ	.	.
+=	=	=
+8CCL	(8AL	.
+8GG	8B	.
+8CCJ	8AJ	.
+8GGL	4f	.
+8CC	.	.
+8GGJ)	8d)	.
+=	=	=
+(8CCL	(8BL	.
+8GG	8c	.
+8CCJ	8BJ	.
+8GGL	4g	.
+8CC	.	.
+8GGJ)	8e)	.
+=	=	=
+(8CCL	(4c	<
+8GG	.	.
+8CCJ	8e	.
+8GGL	4cc	.
+8CC	.	.
+8GGJ)	8a	[
+=	=	=
+(8CCL	4g	<
+8GG	.	.
+8CCJ	8e	.
+8GGL	4c	.
+8CC	.	.
+8GGJ)	8B	[
+=	=	=
+(8CCL	8AL	.
+8GG	8B	.
+8CCJ	8AJ	.
+8GGL	8fL	.
+8CC	8d	.
+8GGJ)	8cJ)	.
+=	=	=
+(8CCL	(8BL	.
+8GG	8c	.
+8CCJ	8BJ	.
+8GGL	8gL	.
+8CC	8e	.
+8GGJ)	8dJ)	.
+=	=	=
+[4.CC	(4c	<
+.	8e	.
+4.CC]	4cc	.
+.	8a)	.
+=	=	=
+[4.F [4.A	(4d	[
+.	8f	.
+4.F] 4.A]	4dd	.
+.	8b)	.
+=	=	=
+[4.E [4.B	(4e	<
+.	8g#X	.
+4.E_ 4.B_	4ee	.
+.	8b	.
+=	=	=
+!	!LO:TX:b:i:t=poco rit.	!
+!	!LO:TX:b:i:t=dim.	!
+4.E_ 4.B_	4gg#X	[
+.	8ee	.
+4.E] 4.B]	4bb	.
+.	8gg#	.
+=	=	=
+[4.E [4.B	[4.eee)	.
+4.E] 4.B]	4.eee_	.
+=	=	=
+8EE	4.eee;]	.
+8r	.	.
+8r	.	.
+4ryy	4ryy	.
+8r	8r	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+2.r	(8aL	p
+.	8b	.
+.	8aJ	.
+.	4e	.
+.	8a)	.
+=	=	=
+2.r	(4g^	.
+.	8f	.
+.	4e	.
+.	8a)	.
+=	=	=
+2.r	(4g^	.
+.	8f	.
+.	4e	.
+.	8a)	.
+=	=	=
+!	!LO:TX:b:i:t=rit.	!
+4.G 4.B	(8gL	.
+.	8a	.
+.	8fJ	.
+[4.C [4.G	[4.c) [4.e	.
+=	=	=
+4.C] 4.G]	4.c] 4.e]	.
+4ryy	4ryy	.
+8r	8r	.
+=	=	=
+!	!LO:TX:a:B:t=A tempo	!
+8eL>	(8ccL	.
+8g>	8dd	.
+8eJ>	8ccJ	.
+4d>	4g	.
+8e>	8cc)	.
+=	=	=
+[4.c> [4.g>	[4.ee	.
+4.c]> 4.g]>	4.ee]	.
+=	=	=
+(8cL	(8aL	.
+8e	8b	.
+8cJ	8aJ	.
+4B	4e	.
+8c)	8a)	.
+=	=	=
+4.A 4.e	4cc	.
+.	8cc	.
+.	(8qcc/	.
+*	*^	*
+4.d#X	(4b^)	4.f#X	.
+.	8a)	.	.
+=	=	=	=
+4.E 4.B	4g#X	4.e	.
+.	(8cc	.	.
+4.d#X^	4b^	4.f#X	.
+.	8a)	.	.
+=	=	=	=
+4.E 4.B	4g#X	4e	.
+*	*v	*v	*
+.	(8cc	.
+*	*^	*
+4.d#X^	4b^	4.f#X	.
+.	8a)	.	.
+=	=	=	=
+[4.E [4.B	(8g#XL	4.e	.
+.	8a	.	.
+.	8bJ	.	.
+*	*v	*v	*
+4.E_ 4.B_	[4.e)	.
+=	=	=
+4.E;] 4.B]	4.e;]	.
+4ryy	4ryy	.
+8r	8ee	f
+*clefG2	*	*
+=	=	=
+4.e 4.a 4.cc	[4.aa^	.
+4.e 4.a 4.cc	4aa]	.
+.	8ee	.
+=	=	=
+4.f 4.a 4.cc	[4.dd#X^	.
+4.c 4.f 4.a	4dd#]	.
+.	8cc	.
+=	=	=
+4.e^ 4.a	[4.ee^	.
+*	*^	*
+4.A 4.e	4.ee_	4.a 4.cc	p
+=	=	=	=
+4.A 4.e	4.ee_	4.a 4.cc	.
+4.A 4.e	4ee]	4.a 4.cc	.
+.	8ee	.	f
+*	*v	*v	*
+=	=	=
+4.e 4.a 4.cc	(4aa^	.
+.	8ee	.
+4.e 4.a	8ccL	.
+.	8dd	.
+.	8eeJ)	.
+=	=	=
+4.f 4.a 4.cc	(8dd#X^L	.
+.	8ee	.
+.	8dd#J	.
+4.c 4.f 4.a	4cc	.
+.	8a)	.
+=	=	=
+4.e 4.a	[4.ee^	.
+*	*^	*
+4.A 4.e	4.ee_	4.a 4.cc	p
+=	=	=	=
+4.A 4.e	4.ee_	4.a 4.cc	.
+4.A 4.e	4.ee]	4.a 4.cc	.
+*	*v	*v	*
+*clefF4	*	*
+=	=	=
+[4.F^	[4.A [4.c	mf
+4.F]	4.A] 4.c]	.
+=	=	=
+[4.BB-X^ [4.F	[4.B-X [4.d	.
+4.BB-] 4.F]	4B-] 4d]	.
+.	8d	.
+=	=	=
+[4.FF^ [4.C	[4.A [4.f	.
+4.FF_ 4.C_	4.A_ 4.f_	.
+=	=	=
+4.FF_ 4.C_	4.A_ 4.f_	.
+4.FF] 4.C]	4.A] 4.f]	.
+=	=	=
+[4.BBni [4.E	[4.G#X [4.d [4.e	p
+4.BB] 4.E]	4.G#_ 4.d_ 4.e_	.
+=	=	=
+[4.EE	4.G#_ 4.d_ 4.e_	.
+4.EE]	4.G#] 4.d] 4.e]	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+(4AA^	[4.A [4.c	p
+8GG#X	.	.
+8GGnL	4.A_ 4.c_	.
+8FF#X	.	.
+8FFnJ)	.	.
+=	=	=
+4EE	4.A_ 4.c_	.
+8DD#X	.	.
+4EE	4.A] 4.c]	.
+8CC	.	.
+=	=	=
+[4.AAA	2.r	.
+4.AAA]	.	.
+=	=	=
+[4.A'; [4.e	[4.cc; [4.aa	pp
+4A] 4e]	4cc] 4aa]	.
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM: Domaine public - Première publication: 1907
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental

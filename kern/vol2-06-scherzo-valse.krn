@@ -1,0 +1,342 @@
+!!!COM: Chaminade, Cécile
+!!!OTL: Album des enfants - Deuxième série
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*M3/8	*M3/8	*
+=1	=1	=1
+!	!LO:TX:a:B:t=Allegro	!
+(8AL	8r	mf ???
+8f#J)	8r	.
+=	=	=
+(4c#^	8r	.
+!	!	!LO:DY:a
+.	4f# 4a	p
+[8d	.	.
+=	=	=
+8d])	8f# 8a	.
+(16ALL	8r	.
+16B	.	.
+16c#	8r	.
+16dJJ)	.	.
+=	=	=
+(4d#X^	8r	.
+.	4g 4a 4cc#	.
+[8e	.	.
+=	=	=
+8eL])	8g 8a 8cc#	.
+(8A	8r	.
+8f#J)	8r	.
+=	=	=
+(4c#^	8r	.
+.	4f# 4b	.
+[8d	.	.
+=	=	=
+8d])	8f# 8b	.
+!	!LO:TX:a:i:t=m.g.	!LO:DY:a
+(16BLL	8r	<
+16d	.	.
+!	!LO:TX:a:i:t=m.d.	!
+16f#>	8ryy	.
+16aJJ>)	.	[[
+=	=	=
+*	*^	*
+(8E	([8cc#^	8cc#L	.
+4d)	16cc#LL]	8eJ 8g#X	.
+.	16b	.	.
+*	*v	*v	*
+.	16g#	.
+.	16eJJ)	.
+=	=	=
+8c#L	8gni 8a	f
+8A^^J	8r	.
+8r	8f#^^	.
+=	=	=
+(8DD^^	(4c#^^	.
+4AA) 4F#	.	.
+.	[8d	.
+=	=	=
+(8FF#^	8d])	.
+4D) 4F#	(16ALL	.
+.	16B	.
+.	16c#	.
+.	16dJJ)	.
+=	=	=
+(8AA^	(4d#X	.
+4G) 4A 4c#	.	.
+.	8e) 8a	.
+=	=	=
+(8AA#X^	8r	.
+4E) 4F#	(8f#L	<
+.	8ddJ	.
+=	=	=
+(8BB^	4g^) 4a#X	[
+4F#) 4B 4d	.	.
+.	[8f# [8b	.
+=	=	=
+8D^	8f#] 8b]	.
+!	!LO:TX:a:i:t=m.g.	!
+(16A#XLL	8r	.
+16B	.	.
+!	!LO:TX:a:i:t=m.d.	!
+16d>	8r	.
+16f#JJ>)	.	.
+=	=	=
+*	*^	*
+(8C#	((8a	8aL	.
+4B)	16aLL)	8c#J	.
+.	16g#X	.	.
+*	*v	*v	*
+.	16e#X	.
+.	16c#JJ)	.
+=	=	=
+8F#' 8A	8f#'	.
+8r	(16c#LL	??? f
+.	16d	.
+8r	16d#X	.
+.	16eJJ)	.
+=!|:	=!|:	=!|:
+8AA^^L 8E	8c#^^L 8e	>
+8AA'J 8E	8c#'J 8e	.
+8r	8r	]
+=	=	=
+8AA#X^^L 8F##X	8cc#^^L 8ee	>
+8AA#'J 8F##	8cc#'J 8ee	.
+8r	8r	]
+=	=	=
+8BB^^L 8G#X	8d^^L 8e	.
+8BBJ 8G#	8d'J 8e	.
+(16G#LL	8r	.
+16AJJ)	.	.
+=	=	=
+(16A#X^LL	8r	.
+16BJJ)	.	.
+8r	(16c#LL	.
+.	16d	.
+8r	16d#X	.
+.	16eJJ)	.
+=	=	=
+8BB^^L 8G#X	8dni^^L 8e	>
+8BB'J 8G#	8d'J 8e	.
+8r	8r	]
+=	=	=
+8BB#X^^L 8A	([4dd#X^ 4gg#X	>
+8BB#'J 8A	.	.
+8r	8dd#]) 8ff#	]
+=	=	=
+8C#Xi^^L 8A	8e^^L	>
+8C#'J 8A	8e'J	.
+(16c#LL	8r	]
+16dJJ)	.	.
+=	=	=
+(16d#XLL	8r	.
+16eJJ	.	.
+8r	16e#XLL	.
+.	16f#	.
+8r	16g#X	.
+.	16aJJ)	.
+=	=	=
+8C#^L 8A	8e#X^L 8a	>
+8C#'J 8A	8e#'J 8a	.
+8r	8r	]
+=	=	=
+8c#^L 8e#X	([4cc#^ 4bb	.
+8c#'J 8e#	.	.
+8r	8cc#]) 8aa	.
+=	=	=
+8d^L 8f#	4.a^ 4.b	>
+8d'J 8f#	.	.
+8r	.	]
+=	=	=
+8BL> 8a>	([4dd 4gg#X	.
+8BJ> 8a>	.	.
+8r	8dd]) 8ff#	.
+=	=	=
+8dL 8e	(8g#XL	.
+8dJ 8e	8cc#	.
+8r	8bJ	.
+=	=	=
+(8c# 8e	8g#XL	.
+.	(8qb/	.
+4B#X) 4d#X	8a)	.
+.	8f#J)	.
+=	=	=
+!	!	!LO:DY:a
+8Bni 8dni	(8eL	>
+4B 4d	8e#X	.
+.	8g#XJ	.
+=	=	=
+4.E 4.G#X	8f#L	.
+.	8eni	.
+.	8dJ)	.
+=	=	=
+8AA^^L 8E	8c#^^L 8e	] >
+8AA'J 8E	8c#'J 8e	.
+8r	8r	]
+=	=	=
+8AA#X^^L 8F##X	8cc#^^L 8ee	>
+8AA#'J 8F##	8cc#'J 8ee	.
+8r	8r	]
+=	=	=
+8BB^^L 8G#X	8d^^L 8e	>
+8BB'J 8G#	8d'J 8e	.
+(16G#LL	8r	]
+16AJJ)	.	.
+=	=	=
+(16A#X^LL	8r	.
+16BJJ)	.	.
+8r	(16c#LL	.
+.	16d	.
+8r	16d#X	.
+.	16eJJ)	.
+=	=	=
+8BB^^L 8G#X	8d^^L 8e	>
+8BB'J 8G#	8d'J 8e	.
+8r	8r	]
+=	=	=
+8BB#X^^L 8A	([4dd#X 4gg#X	f >
+8BB#'J 8A	.	.
+8r	8dd#]) 8ff#	]
+=	=	=
+8C#^^L 8A	8e^^L	>
+8C#'J 8A	8e'J	.
+(16c#LL	8r	]
+16dJJ)	.	.
+=	=	=
+(16d#XLL	8r	.
+16eJJ)	.	.
+8r	(16f#LL	.
+.	16gni	.
+8r	16g#X	.
+.	16aJJ)	.
+=	=	=
+8c#^^L 8e	8gni^^L 8a	.
+8c#'J 8e	8g'J 8a	.
+8r	8r	.
+=	=	=
+8d^^L 8fn	[4g#X^ 4cc#Xi	.
+8d'J 8f	.	.
+8r	8g#] 8b	.
+=	=	=
+8c#^^L 8e	8gni^^L 8a	.
+8c#'J 8e	8g'J 8a	.
+8r	8r	.
+=	=	=
+8B^L 8e	([4g#X^ 4ee	.
+8B'J 8e	.	.
+8r	8g#]) 8dd	.
+=	=	=
+8A#X 8e	(8cc#L	.
+4A# 4e	8gni	.
+.	8ggJ)	.
+=	=	=
+8B 8e	(8ddL	.
+4B 4e	8g	.
+.	8ggJ)	.
+=	=	=
+8B#X 8gni	(8dd#XL	.
+4B# 4g	8a	>
+.	8aaJ)	.
+=	=	=
+!	!LO:TX:b:i:t=rit.	!
+8c#L 8g	(8eeL	]
+(8A	8a	p
+8f#J)	8aaJ)	.
+=	=	=
+!	!LO:TX:a:B:t=a Tempo	!
+(4c#^	8r	.
+.	4f# 4a	.
+[8d	.	.
+=	=	=
+8d])	8f# 8a	.
+(16ALL	8r	.
+16B	.	.
+16c#	8r	.
+16dJJ)	.	.
+=	=	=
+(4d#X^	8r	.
+.	4g 4a	.
+[8e)	.	.
+=	=	=
+8eL]	8g 8a	.
+(8A	8r	.
+8f#J)	8r	.
+=	=	=
+(4c#^	8r	.
+.	4f# 4b	.
+[8d)	.	.
+=	=	=
+8d]	8f# 8b	.
+!	!LO:TX:a:i:t=m.g.	!
+(16BLL	8r	<
+16d	.	.
+!	!LO:TX:a:i:t=m.d.	!
+16f#>	8ryy	.
+16aJJ>)	.	.
+=	=	=
+*	*^	*
+(8E	([8cc#^	8cc#L	[
+4d)	16cc#LL]	8eJ 8g#X	.
+.	16b	.	.
+*	*v	*v	*
+.	16g#	.
+.	16eJJ)	.
+=	=	=
+8c#L	8gni 8a	f
+8A^^J	8r	.
+8r	8f#^^	.
+=	=	=
+(8DD^^	(4c#^^	.
+4AA) 4F#	.	.
+.	[8d)	.
+=	=	=
+(8FF#	8d]	.
+4F#)	(16ALL	.
+.	16B	.
+.	16c#	.
+.	16dJJ)	.
+=	=	=
+(8GG	(8e-XL	.
+4E-X)	8B-X	.
+.	8b-XJ)	.
+=	=	=
+8GG#XL	(8eniL	.
+8E	8Bni	.
+8E#XJ	8g#XJ) 8dd	.
+=	=	=
+(4AA 4F#	(8aL	.
+.	8d	.
+8D#X)	8f#J) 8b	.
+=	=	=
+(4AA 4E	(8gL	.
+.	8B	.
+8G)	8c#J) 8f#	.
+=	=	=
+4D 4F#	(4.d	.
+8AA	.	.
+=	=	=
+8DD	8f#') 8dd	.
+8r	(16c#LL	f
+.	16d	.
+8r	16d#X	.
+.	16eJJ)	.
+=:|!	=:|!	=:|!
+!	!LO:TX:b:i:t=poco rit	!
+(8DL 8F#	4.d	.
+8AA	.	.
+[8DDJ)	.	.
+=	=	=
+*	*^	*
+!	!LO:TX:b:i:t=m.g.	!	!
+4.DD]	4.ff# 4.ddd	4.d 4.a	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM: Domaine public - Première publication: 1907
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental

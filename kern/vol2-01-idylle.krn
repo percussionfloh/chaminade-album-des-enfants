@@ -1,0 +1,349 @@
+!!!COM: Komponist / Arrangeur
+!!!OTL: 1
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M6/8	*M6/8	*
+=1	=1	=1
+!	!LO:TX:b:i:t=bien chanté	!
+!	!LO:TX:a:i:t=dolce	!
+!	!LO:TX:a:B:t=Allegretto	!
+4.r	(8gL	.
+.	8f	.
+.	8eJ)	.
+=	=	=
+(8DL	(4.f	.
+8G	.	.
+8BJ)	.	.
+4r	4.ee	.
+8r	.	.
+=	=	=
+(8FL	4.dd)	.
+8G	.	.
+8dJ)	.	.
+4r	(8bL	.
+.	8a	.
+8r	8gJ)	.
+=	=	=
+(8EL	(4.cc	.
+8G	.	.
+8cJ)	.	.
+4.F	4.a	.
+=	=	=
+(8EL	4.g)	.
+8G	.	.
+8cJ)	.	.
+4r	(8eL	.
+.	8d	.
+8r	8cJ)	.
+=	=	=
+(8DL	(4.f	.
+8G	.	.
+8BJ	.	.
+8C)	8eL	<
+8r	8d	.
+8r	8cJ)	.
+=	=	=
+(8AL	(4.cc^	[
+8d	.	.
+8f#XJ)	.	.
+(8BL	8bL	.
+8c	8a	.
+8c#XJ)	8gJ)	.
+=	=	=
+(8dL	(4.b	.
+8B	.	.
+8DJ)	.	.
+(8cL	4.f#X 4.a	.
+8D	.	.
+8cJ)	.	.
+=	=	=
+(8BL	4.g)	>
+8G	.	.
+8FniJ)	.	.
+!	!LO:TX:a:i:t=dolce	!
+(8EL	(8gL	]
+8G	8f	.
+8cJ)	8eJ)	.
+=	=	=
+(8DL	(4.f	.
+8G	.	.
+8BJ)	.	.
+4r	4.ee	.
+8r	.	.
+=	=	=
+(8FL	4.dd)	.
+8G	.	.
+8dJ)	.	.
+4r	(8bL	.
+.	8a	.
+8r	8gJ)	.
+=	=	=
+(8EL	(4.cc	.
+8B-X	.	.
+8cJ)	.	.
+4r	4.g#X	.
+8r	.	.
+=	=	=
+(8FL	4.a)	.
+8A	.	.
+8cJ)	.	.
+4r	(8fL	.
+.	8e	.
+8r	8dJ	.
+=	=	=
+(8GGL	4.g)	.
+8E	.	.
+8GJ)	.	.
+4r	(8eL	.
+.	8d	.
+8r	8cJ	.
+=	=	=
+(8AL	4.f)	.
+8c	.	.
+8AJ	.	.
+8GL	(8eL	.
+8F	8d	.
+8EJ)	8cJ)	.
+=	=	=
+4.G	4.e	.
+.	(8qe/	.
+4.GG 4.F	4.B) 4.d	.
+=	=	=
+4.C 4.E	4.c	.
+4r	(8ccL	f
+.	8dd	.
+8r	8eeJ	.
+*clefG2	*	*
+=	=	=
+*^	*	*
+8cL	[4.c	8a)	.
+8d	.	8r	.
+8f#XJ	.	(8dd	.
+4.c	4.c]	4ee	.
+.	.	8bb)	.
+=	=	=	=
+(8cL	4.c	(4aa	.
+8d	.	.	.
+8f#XJ)	.	8ff#X)	.
+(8BL	4.B	(8ggL	.
+8d	.	8dd	.
+8gJ)	.	8bJ	.
+=	=	=	=
+([8cL	4c	8a)	.
+8d	.	8r	.
+*v	*v	*	*
+8f#XJ)	(8dd	.
+*^	*	*
+4.c]	4.c	4ee	.
+.	.	8aa)	.
+=	=	=	=
+(8BL	4.B	(4gg	.
+8d	.	.	.
+8gJ)	.	8dd)	.
+*v	*v	*	*
+4r	(8bL	.
+.	8cc	.
+8r	8ddJ)	.
+*clefF4	*	*
+=	=	=
+(8c^L	4.f#X 4.a	.
+8d	.	.
+8c'J)	.	.
+(8BL	4.e#X 4.g#X	.
+8d	.	.
+8B'J)	.	.
+=	=	=
+(8c^L	4.f#X 4.a	.
+8d	.	.
+8DJ)	.	.
+4r	(8ccL	.
+.	8dd	.
+8r	8eeJ)	.
+*clefG2	*	*
+=	=	=
+(8dL	(4b	.
+8g	.	.
+8dJ)	8dd)	.
+*	*^	*
+(8c#XL	(4ff#X^	4.a#X	.
+8g	.	.	.
+8c#J)	8ee)	.	.
+*	*v	*v	*
+=	=	=
+(8dL	8b 8dd	.
+8g	8r	.
+8eJ)	8b	.
+(8dL	(8ddL	.
+8e	8cc	.
+8dJ)	8bJ	.
+=	=	=
+*^	*	*
+8cL	[4.c	8a)	.
+8d	.	8r	.
+8f#XJ	.	(8dd	.
+4.c	4.c]	4ee	.
+.	.	8bb)	.
+=	=	=	=
+(8cL	4.c	(4aa	.
+8d	.	.	.
+8f#XJ)	.	8ff#X)	.
+(8BL	4.B	(8ggL	.
+8d	.	8dd	.
+8gJ)	.	8bJ	.
+=	=	=	=
+(8cL	[4.c	8a)	.
+8d	.	8r	.
+8f#XJ)	.	(8dd	.
+4.c	4.c]	4ee	.
+.	.	8aa)	.
+=	=	=	=
+(8BL	4.B	(4gg	.
+8d	.	.	.
+8gJ)	.	8dd)	.
+*v	*v	*	*
+4r	8bL	.
+.	8a	.
+8r	8gJ	.
+=	=	=
+*^	*	*
+(8cL	4.c	(4a	.
+8fni	.	.	.
+8GJ)	.	8cc)	.
+(8dL	4.d	(8bL	.
+8f	.	8a	.
+8GJ)	.	8gJ)	.
+=	=	=	=
+(8cL	4.c	(8aL	.
+8f	.	8b	.
+8GJ)	.	8ccJ	.
+(8dL	4.d	8bL	.
+8f	.	8a	.
+8GJ)	.	8gJ)	.
+*v	*v	*	*
+=	=	=
+!	!LO:TX:a:t=rit.	!
+(8eL	4.cc	.
+8c	.	.
+8GJ)	.	.
+(8f#XL	4.cc 4.ee	.
+8c	.	.
+8AJ)	.	.
+=	=	=
+4.G 4.d	4.b; 4.gg	.
+!	!LO:TX:b:i:t=dolce	!
+4r	(8gL	p
+.	8f	.
+8r	8eJ)	.
+*clefF4	*	*
+=	=	=
+!	!LO:TX:a:B:t=a tempo	!
+(8DL	(4.f	.
+8G	.	.
+8BJ)	.	.
+4r	4.ee	.
+8r	.	.
+=	=	=
+(8FL	4.dd)	.
+8G	.	.
+8dJ)	.	.
+4r	8bL	.
+.	8a	.
+8r	8gJ	.
+=	=	=
+(8EL	(4.cc	.
+8G	.	.
+8cJ	.	.
+4.F)	4.a	.
+=	=	=
+(8EL	4.g)	.
+8G	.	.
+8cJ)	.	.
+4r	(8eL	.
+.	8d	.
+8r	8cJ)	.
+=	=	=
+(8DL	(4.f^	.
+8G	.	.
+8BJ)	.	.
+4.C	(8eL	.
+.	8d	.
+.	8cJ))	.
+=	=	=
+(8AL	(4.cc^	.
+8d	.	.
+8f#XJ)	.	.
+(8BL	8bL	.
+8c	8a	.
+8c#XJ)	8gJ)	.
+=	=	=
+(8dL	(4.b	.
+8B	.	.
+8DJ)	.	.
+(8cL	4.f#X 4.a	.
+8D	.	.
+8cJ)	.	.
+=	=	=
+(8BL	4.g)	.
+8G	.	.
+8FJ)	.	.
+(8EL	(8gL	.
+8G	8f	.
+8cJ)	8eJ)	.
+=	=	=
+(8DL	(4.f	.
+8G	.	.
+8BJ)	.	.
+4r	4.ee	.
+8r	.	.
+=	=	=
+(8FL	4.dd)	.
+8G	.	.
+8dJ)	.	.
+4r	(8bL	.
+.	8a	.
+8r	8gJ)	.
+=	=	=
+(8EL	(4.cc	.
+8B-X	.	.
+8cJ)	.	.
+4r	4.g#X	.
+8r	.	.
+=	=	=
+(8FL	4.a)	.
+8A	.	.
+8cJ)	.	.
+4r	(8fL	.
+.	8e	.
+8r	8dJ)	.
+=	=	=
+(8GGL	4.g	.
+8E	.	.
+8GJ)	.	.
+4r	(8eL	.
+.	8d	.
+8r	8cJ	.
+=	=	=
+(8AL	4.f)	.
+8c	.	.
+8AJ)	.	.
+!	!LO:TX:a:t=rit.	!
+(8GL	(8eL	.
+8F	8d	.
+8EJ)	8cJ	.
+=	=	=
+4.G	4.e)	.
+.	(8qe/	.
+4.GG 4.F	4.B) 4.d	.
+=	=	=
+4.C 4.E	4.c	.
+4r	4r	.
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: i = editorial accidental
